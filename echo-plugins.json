@@ -521,6 +521,16 @@
         "comment",
         "badge"
       ]
+    },
+    {
+      "id": "local-music",
+      "path": "local-music",
+      "homepage": "https://github.com/hoowhoami/EchoMusicPlugins/tree/main/local-music",
+      "tags": [
+        "local",
+        "library",
+        "player"
+      ]
     }
   ]
 }
