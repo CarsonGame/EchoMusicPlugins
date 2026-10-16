@@ -7,7 +7,6 @@
   "icon": "icon.svg",
   "main": "index.js",
   "capabilities": {
-    "localFiles": true,
     "serverIntercept": true
   },
   "requires": {
