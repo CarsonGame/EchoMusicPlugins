@@ -500,6 +500,27 @@
         "theme",
         "dynamic"
       ]
+    },
+    {
+      "id": "taskbar-lyrics",
+      "path": "taskbar-lyrics",
+      "repo": "https://github.com/CarsonGame/EchoMusic-TaskbarLyrics",
+      "homepage": "https://github.com/CarsonGame/EchoMusic-TaskbarLyrics",
+      "tags": [
+        "lyrics",
+        "taskbar",
+        "windows"
+      ]
+    },
+    {
+      "id": "comment-badges",
+      "path": "comment-badges",
+      "homepage": "https://github.com/hoowhoami/EchoMusicPlugins/tree/main/comment-badges",
+      "tags": [
+        "appearance",
+        "comment",
+        "badge"
+      ]
     }
   ]
 }
