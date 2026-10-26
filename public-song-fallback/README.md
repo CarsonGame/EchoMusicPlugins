@@ -14,7 +14,7 @@ EchoMusic 的公开同曲与关联 MV 音轨兜底插件。原歌曲不可播放
 
 ## 安装
 
-适用于 **Windows x64、EchoMusic 2.3.2-beta.20 及兼容的 2.x**。在“插件管理”安装，或下载本目录，完整复制到插件目录。保留 bin 和 analysis 目录，重新启用插件。
+适用于 **Windows x64、EchoMusic >=2.3.2**。在“插件管理”安装，或下载本目录，完整复制到插件目录。保留 bin 和 analysis 目录，重新启用插件。
 
 完整组件约 **69 MiB**，使用 whisper.cpp 与 Base Q5_1 模型，无需安装 Python、Node.js 或额外 FFmpeg。系统需具备 Microsoft Visual C++ x64 运行库。启用时按宿主提示允许本地识别程序。
 
