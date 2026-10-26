@@ -1,0 +1,19 @@
+{
+  "id": "public-song-fallback",
+  "name": "付费歌曲续听",
+  "version": "1.0.0",
+  "description": "遇到付费或不可用歌曲，自动尝试可播放的关联 MV 音轨，优先检索匹配歌词并自动核验，让续听更连贯。",
+  "icon": "icon.svg",
+  "author": "CarsonGame",
+  "main": "index.js",
+  "capabilities": {
+    "audioSource": true,
+    "unrestrictedNetwork": true,
+    "process": true,
+    "localFiles": true,
+    "kugouApi": true
+  },
+  "requires": {
+    "echoMusicVersion": ">=2.3.2-beta.20 <3"
+  }
+}
